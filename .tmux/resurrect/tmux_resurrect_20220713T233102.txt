@@ -1,0 +1,3 @@
+pane	the_norm	0	:bash	1	:*	0	:/home/craut	1	htop	:htop
+window	the_norm	0	1	:*	eb95,308x69,0,0,26
+state	the_norm	

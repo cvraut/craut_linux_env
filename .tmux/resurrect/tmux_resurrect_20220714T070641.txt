@@ -1,0 +1,6 @@
+pane	the_norm	0	:bash	1	:*	0	:/home/craut	0	bash	:
+pane	the_norm	0	:bash	1	:*	1	:/home/craut/Research/Speliotes/speliotes_exercises/part_2/2_polygenic_risk_score	1	bash	:
+pane	the_norm	0	:bash	1	:*	2	:/home/craut	0	htop	:htop
+pane	the_norm	0	:bash	1	:*	3	:/home/craut/Research/Speliotes/speliotes_exercises	0	bash	:
+window	the_norm	0	1	:*	82b4,308x69,0,0{154x69,0,0[154x34,0,0,26,154x34,0,35,31],153x69,155,0[153x34,155,0,29,153x34,155,35,30]}
+state	the_norm	

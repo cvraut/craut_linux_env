@@ -1,0 +1,8 @@
+pane	0	0	:std	1	:*	0	:/home/craut/Research/craut_linux_env/utils	0	vim	:vim resurrect_tmux.sh
+pane	0	0	:std	1	:*	1	:/home/craut/.tmux/plugins/tmux-resurrect/scripts	1	bash	:bash -i
+pane	0	0	:std	1	:*	2	:/home/craut	0	htop	:htop
+pane	0	0	:std	1	:*	3	:/home/craut/Research/craut_linux_env	0	bash	:
+pane	1	0	:function	1	:*	0	:/home/craut/Research/craut_linux_env/utils	1	bash	:bash -i
+window	0	0	1	:*	561b,211x53,0,0{126x53,0,0[126x41,0,0,1,126x11,0,42,5],84x53,127,0[84x17,127,0,2,84x35,127,18,3]}
+window	1	0	1	:*	b963,211x53,0,0,6
+state	0	1

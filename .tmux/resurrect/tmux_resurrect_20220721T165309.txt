@@ -1,0 +1,5 @@
+pane	0	0	:bash	1	:*	0	:/mnt/home/craut	1	bash	:
+pane	2	0	:bash	1	:*	0	:/mnt/home/craut	1	bash	:
+window	0	0	1	:*	aedd,218x21,0,0,0
+window	2	0	1	:*	aedf,218x21,0,0,2
+state	2	
