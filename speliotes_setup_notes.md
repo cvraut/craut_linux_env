@@ -14,7 +14,7 @@
  - verify that tmux-continuum works
 
 ## Step 3:
- - copy the vim configurations in
+ - copy the vim configurations in `.vimrc` and `.vim` folders
 
 ## Step 4:
  - update the git
@@ -23,5 +23,10 @@
    - `source ~/.bash_profile` to see the changes
 
 ## Step 5:
- - setup miniconda
- - 
+ - [setup miniconda](https://engineeringfordatascience.com/posts/install_miniconda_from_the_command_line/)
+ - grab mamba as well `conda install mamba -n base -c conda-forge`
+ - 🐍
+ - note: we need to add the following line to the bashrc otherwise things we did b4 don't work
+   - `export PATH="$HOME/bin:$HOME/.local/bin:$PATH"`
+   - before the conda initialization
+
