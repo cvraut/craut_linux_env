@@ -6,7 +6,8 @@ contents:
 .tmux.conf
 
 Current distros supported:
-Centos 7
+ - Centos 7
+ - RHEL 7
 
 Todo:
 1 cmd setup
